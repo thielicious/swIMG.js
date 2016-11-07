@@ -1,30 +1,17 @@
 <h1>swIMG.js</h1>
-swIMG is a simple JavaScript image viewer with no overloading sundry frills.
+swIMG is a simple JavaScript image viewer with no overloading sundry frills.<br>
+<br>
 <h3>Documentation</h3>
 <br>
 	<ul>
-		<li> > <a href="#intro">Introduction</a></li>
-		<li> > <a href="#setup">Setup Information</a></li>
-		<li> > <a href="#config">Configuration</a></li>
-		<li> > <a href="#usage">Usage</a></li>
-		<li> > <a href="#future">Future Plans</a></li>
-		<li> > <a href="#demos">Examples</a></li>
+		<li><a href="#intro">Introduction</a></li>
+		<li><a href="#setup">Setup Information</a></li>
+		<li><a href="#config">Configuration</a></li>
+		<li><a href="#usage">Usage</a></li>
+		<li><a href="#future">Future Plans</a></li>
+		<li><a href="#demos">Examples</a></li>
 	</ul>
 	<br><br><br>
-
-swIMG
-Documentation
-
-    » Introduction
-    » Setup Information
-    » Configuration
-    » Usage
-    » Future Plans
-    » Examples
-
-
-
-
 INTRODUCTION
 
 
