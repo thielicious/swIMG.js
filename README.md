@@ -1,11 +1,8 @@
 #swIMG.js
+
 swIMG is a simple JavaScript image viewer with no overloading sundry frills.
 
-» **[Documentation]**()
-» **[Changelog]**()
-» **[Downloads]**()
-» **[Examples]**()
-» **[Licence]**()
+#### [Documentation]() | [Changelog]() | [Downloads]() | [Examples]() | [Licence]()
 
 ---
 
@@ -14,13 +11,14 @@ For a livedemo: click above on **Examples**
 
 **swIMG** ('sw': abbr. for 'switch') is a fullsize image viewer for a specified thumbnail gallery which instantly works right after implementation.
 
-## ***'Straight to the point.'***
+### ***'Straight to the point.'***
 
 This simple gallery is an alternative contrast to the overwhelmingly complicated and slow-loading gallery APIs in the rest of the web. By standard, it extracts the image source of the thumbnails and shows them in fullsize. This script can be easily adjusted in the configuration.
 
+<br>
+<br>
 
 ## SETUP INFORMATION
-
 
 swIMG is not a stand-alone API, it uses **JQuery** syntax. This library is required in order to run swIMG.
 Click to download:
@@ -77,14 +75,16 @@ For an overview of all versions and bug fixes please check the CHANGELOG.
 
 When these class elements have not been found, a notification alert will pop up reminding you to fix it. After this implementation it's ready to perform. Simply click on any of the thumbnails. Feel free to check out the Examples below.
 
+<br>
+<br>
 
-## EXAMPLES (*** CodePen.io ***)
+### EXAMPLES (***CodePen.io***)
 
-### Demos of different adjustments:
+###**Demos of different adjustments:**
 
-» [Images extracted thumbnails]()
-» [Images extracted from background]()
-» [Images from a directory]()
-» [Limited image count]()
-» [Image increment]()
-» [Visual changes]()
+» [Images extracted from thumbnails]()<br>
+» [Images extracted from background]()<br>
+» [Images from a directory]()<br>
+» [Limited image count]()<br>
+» [Image increment]()<br>
+» [Visual changes]()<br>
