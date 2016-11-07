@@ -5,6 +5,7 @@ swIMG is a simple JavaScript image viewer with no overloading sundry frills.
 #### [Documentation]() | [Changelog]() | [Downloads]() | [Examples]() | [Licence]()
 
 ---
+<br>
 
 Built with JavaScript 1.8.5(ECMAScript 5 and jQuery v3.11)
 For a livedemo: click above on **Examples**
@@ -25,15 +26,15 @@ Click to download:
 
 » [jQuery v3.10+]()
 
-Optionally, the additional PlugIn jgestures for mobile control can be embedded into the DOM. There is no configuration needed. This PlugIn is not required - once jgestures is detected it will be applied immediately for default mobile control. Click to download:
+Optionally, the additional PlugIn **jgestures** for mobile control can be embedded into the DOM. There is no configuration needed. This PlugIn is not required - once jgestures is detected it will be applied immediately for default mobile control. Click to download:
 
 » [jgestures v0.90.1]()
 
-Choose swIMG.js at the download section:
+Click **swIMG.js** below and download/link/clone/git the API 
 
 » [swIMG.js]()
 
-For an overview of all versions and bug fixes please check the CHANGELOG.
+For an overview of all versions and bug fixes please check the [Changelog]().
 
 
 **1\.** Once all necessary files have been downloaded, simply embed these in your <head> element of your page.
@@ -60,7 +61,7 @@ For an overview of all versions and bug fixes please check the CHANGELOG.
 
 		
 
-** 3\.** At last, the gallery as a parent container must be specified with the class name swIMG as well as the thumbnails with the name sw_image.
+**3\.** At last, the gallery as a parent container must be specified with the class name swIMG as well as the thumbnails with the name sw_image.
 
 		
 
