@@ -2,7 +2,7 @@
 
 swIMG is a simple JavaScript image viewer with no overloading sundry frills.
 
-#### [Documentation]() | [Changelog]() | [Downloads]() | [Examples]() | [Licence]()
+#### [Documentation]() | [Changelog]() | [Downloads]() | [Examples]() | [Licence]() ####
 
 ---
 <br>
@@ -91,3 +91,7 @@ When these class elements have not been found, a notification alert will pop up 
 » [Limited image count]()<br>
 » [Image increment]()<br>
 » [Visual changes]()<br>
+
+<br>
+<hr>
+[thielicious.github.io] (http://thielicious.github.io) | [thielicious.com] (http://www.thielicious.com)
