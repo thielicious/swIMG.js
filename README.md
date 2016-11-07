@@ -26,14 +26,16 @@ Click to download:
 
 » [jQuery v3.10+]()
 
-Optionally, the additional PlugIn **jgestures** for mobile control can be embedded into the DOM. There is no configuration needed. This PlugIn is not required - once jgestures is detected it will be applied immediately for default mobile control. Click to download:
+Optionally, the additional PlugIn **jgestures** for mobile control can be embedded into the DOM. There is no configuration needed. This PlugIn is not required - once jgestures is detected it will be applied immediately for default mobile control. <br>
+Click to download:
 
 » [jgestures v0.90.1]()
 
-Click **swIMG.js** below and download/link/clone/git the API 
+Click **swIMG.js** below and then download/link/clone/git the API:
 
 » [swIMG.js]()
 
+<br>
 For an overview of all versions and bug fixes please check the [Changelog]().
 
 
