@@ -1,45 +1,46 @@
-<h1>swIMG.js</h1>
-swIMG is a simple JavaScript image viewer with no overloading sundry frills.<br>
-<br>
-<h3>Documentation</h3>
-<br>
-	<ul>
-		<li><a href="#intro">Introduction</a></li>
-		<li><a href="#setup">Setup Information</a></li>
-		<li><a href="#config">Configuration</a></li>
-		<li><a href="#usage">Usage</a></li>
-		<li><a href="#future">Future Plans</a></li>
-		<li><a href="#demos">Examples</a></li>
-	</ul>
-	<br><br><br>
-INTRODUCTION
+#swIMG.js
+swIMG is a simple JavaScript image viewer with no overloading sundry frills.
+
+## Documentation
+
+***Introduction***<br>
+***Setup Information***<br>
+***Configuration***<br>
+***Usage***<br>
+***Future Plans***<br>
+***Examples***<br>
+
+
+
+## Introduction
 
 
 Built with JavaScript 1.8.5(ECMAScript 5 and jQuery v3.11)
-For a livedemo: see EXAMPLES
-Free Licence: click LICENCE for more information.
+For a livedemo: see <a href="#">EXAMPLES</a>
+Free Licence: click <a href="#">LICENCE</a> for more information.
 
-swIMG ('sw': abbr. for 'switch') is a fullsize image viewer for a specified thumbnail gallery which instantly works right after implementation.
+**swIMG** ('sw': abbr. for 'switch') is a fullsize image viewer for a specified thumbnail gallery which instantly works right after implementation.
 
-'Straight to the point.'
+**'Straight to the point.'**
 
 This simple gallery is an alternative contrast to the overwhelmingly complicated and slow-loading gallery APIs in the rest of the web. By standard, it extracts the image source of the thumbnails and shows them in fullsize. This script can be easily adjusted in the configuration.
 
 
-SETUP INFORMATION
+## SETUP INFORMATION
 
 
-swIMG is not a stand-alone API, it uses JQuery syntax. This library is required in order to run swIMG. Click to download:
+swIMG is not a stand-alone API, it uses **JQuery** syntax. This library is required in order to run swIMG.
+Click to download:
 
-- JQuery v3.10+
+<a href="#">JQuery v3.10+</a>
 
 Optionally, the additional PlugIn jgestures for mobile control can be embedded into the DOM. There is no configuration needed. This PlugIn is not required - once jgestures is detected it will be applied immediately for default mobile control. Click to download:
 
-- jgestures v0.90.1
+<a href="#">jgestures v0.90.1</a>
 
 Choose swIMG.js at the download section:
 
-- swIMG.js
+<a href="#">swIMG.js</a>
 
 For an overview of all versions and bug fixes please check the CHANGELOG.
 
