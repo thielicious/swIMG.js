@@ -21,7 +21,7 @@ This simple gallery is an alternative contrast to the overwhelmingly complicated
 
 ## SETUP INFORMATION
 
-swIMG is not a stand-alone API, it uses **JQuery** syntax. This library is required in order to run swIMG.
+swIMG is not a stand-alone API, it uses **jQuery** syntax. This library is required in order to run swIMG.
 Click to download:
 
 » [jQuery v3.10+]()
@@ -38,6 +38,7 @@ Click **swIMG.js** below and then download/link/clone/git the API:
 <br>
 For an overview of all versions and bug fixes please check the [Changelog]().
 
+<br>
 
 **1\.** Once all necessary files have been downloaded, simply embed these in your <head> element of your page.
 
