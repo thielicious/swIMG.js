@@ -40,20 +40,20 @@ For an overview of all versions and bug fixes please check the [Changelog]().
 
 <br>
 
-**1\.** Once all necessary files have been downloaded, simply embed these in your <head> element of your page.
+**1\.** Once all necessary files have been downloaded, simply embed these in your &lt;head> element of your page.
 
 		
 
 	<head>
 	  <script src="scripts/jquery.js"></script>
 	  <script src="scripts/jgestures.js"></script> <-- optional
-	  <script src="scripts/swIMGv092.js"></script>
+	  <script src="scripts/swIMG.js"></script>
 	</head>
 		
 
 		
 
-**2\.** Next, execute swIMG() at the bottom of your HTML code. For example, after the closing tag </html> or </body>. It is necessary due to triggered elements which first have to be DOM-ready.
+**2\.** Next, execute swIMG() at the bottom of your HTML code. For example, after the closing tag &lt;/html> or &lt;/body>. It is necessary due to triggered elements which first have to be DOM-ready.
 
 		
 
