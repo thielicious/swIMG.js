@@ -2,7 +2,7 @@
 
 swIMG is a simple JavaScript image viewer with no overloading sundry frills.
 
-#### [Documentation]() | [Changelog]() | [Downloads]() | [Examples]() | [Licence]() ####
+#### [Documentation](https:thielicious.github.io/#swimg_doc) | [Changelog](https:thielicious.github.io/#swimg_clog) | [Downloads]() | [Examples]() | [Licence]() ####
 
 ---
 <br>
