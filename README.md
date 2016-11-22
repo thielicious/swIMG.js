@@ -95,4 +95,4 @@ When these class elements have not been found, a notification alert will pop up 
 
 <br>
 <hr>
-[thielicious.github.io] (http://thielicious.github.io) | [thielicious.com] (http://www.thielicious.com)
+[thielicious.github.io] (http://thielicious.github.io)
