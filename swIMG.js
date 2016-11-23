@@ -16,6 +16,8 @@
 			
 			The following libraries are necessary in order to run swIMG:
 			- JQuery v1.8+
+			
+			Optional:
 			- jgestures.js v0.90.1
 			
 			Open README.txt to follow instructions. Feel free to change configuration. 
