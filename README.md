@@ -83,7 +83,7 @@ When these class elements have not been found, a notification alert will pop up 
 <br>
 
 ### EXAMPLES (***CodePen.io***)
-
+-
 ####Demos of different adjustments:
 
 » [Images extracted from thumbnails](http://codepen.io/thielicious/pen/wzLRvO)<br>
