@@ -7,6 +7,8 @@ swIMG is a simple JavaScript image viewer with no overloading sundry frills.
 ---
 <br>
 
+##INTRODUCTION
+
 Built with JavaScript 1.8.5(ECMAScript 5 and jQuery v3.11)<br>
 For a livedemo click above on **Examples**
 
@@ -15,7 +17,6 @@ For a livedemo click above on **Examples**
 ### ***'Straight to the point.'***
 
 This simple gallery is an alternative contrast to the overwhelmingly complicated and slow-loading gallery APIs in the rest of the web. By standard, it extracts the image source of the thumbnails and shows them in fullsize. This script can be easily adjusted in the configuration.
-
 <br>
 <br>
 
@@ -78,13 +79,12 @@ For an overview of all versions and bug fixes please check the [Changelog](http:
 		
 
 When these class elements have not been found, a notification alert will pop up reminding you to fix it. After this implementation it's ready to perform. Simply click on any of the thumbnails. Feel free to check out the Examples below.
-
 <br>
 <br>
 
 ### EXAMPLES (***CodePen.io***)
 
-###**Demos of different adjustments:**
+####Demos of different adjustments:
 
 » [Images extracted from thumbnails](http://codepen.io/thielicious/pen/wzLRvO)<br>
 » [Images extracted from background](http://codepen.io/thielicious/pen/YGopzm)<br>
@@ -92,7 +92,9 @@ When these class elements have not been found, a notification alert will pop up 
 » [Limited image count](http://codepen.io/thielicious/pen/KgjbRM)<br>
 » [Image increment](http://codepen.io/thielicious/pen/rMEoMj)<br>
 » [Visual changes](http://codepen.io/thielicious/pen/RGzEmz)<br>
-
 <br>
-<hr>
+
+
+####If you encounter any bugs, feel free to open up an [issue](https://github.com/thielicious/swIMG.js/issues), thank you.<br>
+---
 [thielicious.github.io] (http://thielicious.github.io)
