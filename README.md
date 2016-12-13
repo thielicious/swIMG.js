@@ -82,7 +82,7 @@ When these class elements have not been found, a notification alert will pop up 
 <br>
 <br>
 
-###EXAMPLES (CodePen.io)
+###EXAMPLES (***CodePen.io***)
 
 ####Demos of different adjustments:
 
