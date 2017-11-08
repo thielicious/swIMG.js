@@ -1,13 +1,13 @@
-#swIMG.js
+# swIMG.js
 
 swIMG is a simple JavaScript image viewer with no overloading sundry frills.
 
-#### [Documentation](http:thielicious.github.io/#swimg_doc) | [Changelog](http:thielicious.github.io/#swimg_clog) | [Downloads](http:thielicious.github.io/#swimg_dls) | [Examples](http:thielicious.github.io/#swimg_demo) | [License](http:thielicious.github.io/#swimg_lic) ####
+#### [Documentation](http:thielicious.github.io/#swimg_doc) | [Changelog](http:thielicious.github.io/#swimg_clog) | [Downloads](http:thielicious.github.io/#swimg_dls) | [Examples](http:thielicious.github.io/#swimg_demo) | [License](http:thielicious.github.io/#swimg_lic) 
 
 ---
 <br>
 
-##INTRODUCTION
+## INTRODUCTION
 
 Built with JavaScript 1.8.5(ECMAScript 5 and jQuery v3.11)<br>
 For a livedemo click above on **Examples**
@@ -82,9 +82,9 @@ When these class elements have not been found, a notification alert will pop up 
 <br>
 <br>
 
-##EXAMPLES (***CodePen.io***)
+## EXAMPLES (***CodePen.io***)
 
-####Demos of different adjustments:
+#### Demos of different adjustments:
 
 » [Images extracted from thumbnails](http://codepen.io/thielicious/pen/wzLRvO)<br>
 » [Images extracted from background](http://codepen.io/thielicious/pen/YGopzm)<br>
@@ -95,6 +95,6 @@ When these class elements have not been found, a notification alert will pop up 
 <br>
 
 
-####If you encounter any bugs, feel free to open up an [issue](https://github.com/thielicious/swIMG.js/issues), thank you.<br>
+#### If you encounter any bugs, feel free to open up an [issue](https://github.com/thielicious/swIMG.js/issues), thank you.<br>
 ---
-[thielicious.github.io] (http://thielicious.github.io)
+[thielicious.github.io](http://thielicious.github.io)
